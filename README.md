@@ -1,8 +1,4 @@
 # 📝 To-Do List
-
-Uma lista simples de tarefas a fazer, em formato Markdown.  
-Marca as tarefas concluídas com um ✅!
-
 ---
 
 ## 📅 Tarefas
