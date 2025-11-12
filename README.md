@@ -15,7 +15,7 @@
 - [ ] Exercicio 11
 
 
-Ficheiro com apenas as 200.000 linhas: `/Sistemas-Operativos-TG1/paisa.raw.utf8`
+Ficheiro com apenas as 200.000 linhas: [paisa.raw.utf8](Sistemas-Operativos-TG1)
 
 
 Preparação:
