@@ -1,8 +1,8 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 #Variáveis
-Ficheiro_Original='/home/$USER/Downloads/paisa.raw.utf8'
-Ficheiro_Trabalho='/home/$USER/Sistemas-Operativos-TG1/tg1/corpus_txt'
+Ficheiro_Original="/home/$USER/Downloads/paisa.raw.utf8"
+Ficheiro_Trabalho="/home/$USER/Sistemas-Operativos-TG1/tg1/corpus_txt/paisa.raw.utf8"
 
 if [ -f "$Ficheiro_Original" ]
 then
