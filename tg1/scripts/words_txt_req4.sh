@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #Variáveis
-Ficheiro_Trabalho='/home/$USER/Sistemas-Operativos-TG1/tg1/corpus_txt/paisa.raw.utf8'
-Resultado='/home/$USER/Sistemas-Operativos-TG1/tg1/words_dict/words.txt'
+Ficheiro_Trabalho="/home/$USER/Sistemas-Operativos-TG1/tg1/corpus_txt/paisa.raw.utf8"
+Resultado="/home/$USER/Sistemas-Operativos-TG1/tg1/words_dict/words.txt"
 
 cat $Ficheiro_Trabalho | \
 #tr -s | Remove espaços duplicados, deixando apenas um espaço entre as palavras.

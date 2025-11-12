@@ -1,8 +1,8 @@
 #!/bin/bash
 
 #Variáveis
-Ficheiro_Trabalho='/home/$USER/Sistemas-Operativos-TG1/tg1/corpus_txt/paisa.raw.utf8'
-Resultado='/home/$USER/Sistemas-Operativos-TG1/tg1/corpus_info/corpus_info.txt'
+Ficheiro_Trabalho="/home/$USER/Sistemas-Operativos-TG1/tg1/corpus_txt/paisa.raw.utf8"
+Resultado="/home/$USER/Sistemas-Operativos-TG1/tg1/corpus_info/corpus_info.txt"
 
 
 #Conta correctamente o númeroo de caracteres.

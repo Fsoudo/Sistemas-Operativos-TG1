@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Caminhos fixos
-Ficheiro_Trabalho="/home/$USER/tg1/corpus_txt/paisa.raw.utf8"
-Resultado="/home/$USER/tg1/words_dict/words_pairs.txt"
+Ficheiro_Trabalho="/home/$USER/Sistemas-Operativos-TG1/tg1/corpus_txt/paisa.raw.utf8"
+Resultado="/home/$USER/Sistemas-Operativos-TG1/tg1/words_dict/words_pairs.txt"
 
 # Verificação do corpus
 if [ ! -f "$Ficheiro_Trabalho" ]; then

@@ -1,0 +1,11 @@
+=== INFORMAÇÕES DO CORPUS ===
+Data de criação do ficheiro : Wed Nov 12 15:43:55 WET 2025
+
+Número de caracteres: 17973242
+Quantidade de linhas não vazias: 200000
+Número total de palavras: 2758049
+Número total de palavras diferentes: 90324
+Quociente (palavras diferentes / total palavras): .0327
+Número total de frases: 200000
+Número total de frases diferentes: 34558
+Quociente (frases diferentes / total frases): .1727
