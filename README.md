@@ -15,12 +15,15 @@
 - [ ] Exercicio 11
 
 
+Ficheiro com apenas as 200.000 linhas: `/Sistemas-Operativos-TG1/paisa.raw.utf8`
+
 
 Preparação:
 
 #Criar Estrutura (Exercicio 1)
+```bash
 mkdir -p tg1/{scripts,corpus,corpus_txt,corpus_info,words_dict,sentences_dict}
-
+```
 
 
 
