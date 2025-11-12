@@ -13,3 +13,14 @@
 - [x] Exercicio 9
 - [x] Exercicio 10
 - [ ] Exercicio 11
+
+
+
+Preparação:
+
+#Criar Estrutura (Exercicio 1)
+mkdir -p tg1/{scripts,corpus,corpus_txt,corpus_info,words_dict,sentences_dict}
+
+
+
+
