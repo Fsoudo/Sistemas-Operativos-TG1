@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
 #Variáveis
 Ficheiro_Original="/home/$USER/Downloads/paisa.raw.utf8"
