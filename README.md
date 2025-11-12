@@ -7,9 +7,9 @@
 - [x] Exercicio 3
 - [x] Exercicio 4
 - [x] Exercicio 5
-- [ ] Exercicio 6
-- [ ] Exercicio 7
-- [ ] Exercicio 8
-- [ ] Exercicio 9
-- [ ] Exercicio 10
+- [x] Exercicio 6
+- [x] Exercicio 7
+- [x] Exercicio 8
+- [x] Exercicio 9
+- [x] Exercicio 10
 - [ ] Exercicio 11
