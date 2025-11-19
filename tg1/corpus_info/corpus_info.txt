@@ -1,0 +1,10 @@
+=== INFORMAÇÕES DO CORPUS ===
+
+Número de caracteres: 17973242
+Quantidade de linhas não vazias: 200000
+Número total de palavras: 2758049
+Número total de palavras diferentes: 90324
+Quociente (palavras diferentes / total palavras): .032749
+Número total de frases: 200000
+Número total de frases diferentes: 34558
+Quociente (frases diferentes / total frases): .172790
