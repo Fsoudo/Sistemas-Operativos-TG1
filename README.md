@@ -152,8 +152,8 @@ caminho usado nos scripts corresponde ao real.
 
 ## 📎 Notas Finais
 
--   Este repositório implementa o TG1 de Sistemas Operativos.\
--   Os nomes dos scripts podem variar consoante a tua versão\
+-   Este repositório implementa o TG1 de Sistemas Operativos.
+-   Os nomes dos scripts podem variar consoante a tua versão
 -   Qualquer alteração à estrutura deve ser atualizada também neste
     documento.
 
