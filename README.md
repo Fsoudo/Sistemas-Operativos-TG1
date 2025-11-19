@@ -44,16 +44,6 @@ mkdir -p tg1/{scripts,corpus,corpus_txt,corpus_info,words_dict,sentences_dict}
 
 ------------------------------------------------------------------------
 
-## 🧰 Requisitos
-
--   Linux ou macOS\
--   Shell Bash\
--   Comandos essenciais: `grep`, `awk`, `sed`, `sort`, `uniq`, `wc`,
-    `tr`\
--   No Windows: usar WSL ou máquina virtual Linux
-
-------------------------------------------------------------------------
-
 ## 📥 Instalação
 
 ``` bash
@@ -163,8 +153,7 @@ caminho usado nos scripts corresponde ao real.
 ## 📎 Notas Finais
 
 -   Este repositório implementa o TG1 de Sistemas Operativos.\
--   Os nomes dos scripts podem variar consoante a tua versão --- ajusta
-    o README se necessário.\
+-   Os nomes dos scripts podem variar consoante a tua versão\
 -   Qualquer alteração à estrutura deve ser atualizada também neste
     documento.
 
